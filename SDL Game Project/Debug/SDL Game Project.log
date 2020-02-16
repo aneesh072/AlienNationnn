@@ -1,0 +1,55 @@
+﻿  Vector.cpp
+d:\basic game engin\sdl game project\sdl game project\vector.cpp(28): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\vector.cpp(36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\vector.cpp(37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Texture.cpp
+  StatePlay.cpp
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(20): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(23): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(104): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(148): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(162): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\stateplay.cpp(169): warning C4305: 'argument': truncation from 'double' to 'float'
+  StateMenu.cpp
+d:\basic game engin\sdl game project\sdl game project\statemenu.cpp(15): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  d:\basic game engin\sdl game project\sdl2_2015\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+  StateEnd.cpp
+d:\basic game engin\sdl game project\sdl game project\stateend.cpp(24): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  d:\basic game engin\sdl game project\sdl2_2015\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+  Sound.cpp
+  Score.cpp
+d:\basic game engin\sdl game project\sdl game project\score.cpp(16): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  d:\basic game engin\sdl game project\sdl2_2015\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+  Points.cpp
+  main.cpp
+d:\basic game engin\sdl game project\sdl game project\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MachineState.cpp
+  Level.cpp
+d:\basic game engin\sdl game project\sdl game project\level.cpp(13): warning C4150: deletion of pointer to incomplete type 'SDL_Texture'; no destructor called
+  d:\basic game engin\sdl game project\sdl2_2015\include\sdl_render.h(128): note: see declaration of 'SDL_Texture'
+  KeyboardHandler.cpp
+  InputHandler.cpp
+  HighScore.cpp
+  Hero.cpp
+d:\basic game engin\sdl game project\sdl game project\hero.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Global.cpp
+  Entity.cpp
+d:\basic game engin\sdl game project\sdl game project\entity.cpp(6): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+d:\basic game engin\sdl game project\sdl game project\entity.cpp(6): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\entity.cpp(56): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\entity.cpp(57): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\entity.cpp(63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\basic game engin\sdl game project\sdl game project\entity.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bullet.cpp
+d:\basic game engin\sdl game project\sdl game project\bullet.cpp(31): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+d:\basic game engin\sdl game project\sdl game project\bullet.cpp(31): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Animation.cpp
+d:\basic game engin\sdl game project\sdl game project\animation.cpp(64): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+d:\basic game engin\sdl game project\sdl game project\animation.cpp(64): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  AirMine.cpp
+d:\basic game engin\sdl game project\sdl game project\airmine.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SDL Game Project.vcxproj -> D:\Basic Game Engin\SDL Game Project\Debug\SDL Game Project.exe
+  SDL Game Project.vcxproj -> D:\Basic Game Engin\SDL Game Project\Debug\SDL Game Project.pdb (Partial PDB)
